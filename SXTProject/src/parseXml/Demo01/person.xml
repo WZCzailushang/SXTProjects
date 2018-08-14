@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+    <person>
+        <name>王中春</name>
+        <age>24</age>
+    </person>
+    <person>
+        <name>刘金凤</name>
+        <age>24</age>
+    </person>
+</persons>
